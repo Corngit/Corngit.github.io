@@ -103,5 +103,5 @@ theme: hexo-theme-Klise-enhanced
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: https://github.com/Corngit/Corngit.github.io
+  repo: https://github.com/Corngit/Corngit.github.io.git
   branch: githyb_pages
