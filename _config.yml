@@ -105,3 +105,9 @@ deploy:
   type: git
   repo: https://github.com/Corngit/Corngit.github.io
   branch: githyb_pages
+
+markdown:
+  render:
+    html: true
+
+sanitize: false
